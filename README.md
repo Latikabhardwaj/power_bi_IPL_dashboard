@@ -29,4 +29,5 @@ It is designed to help cricket enthusiasts, analysts, and decision-makers explor
 * Custom Visuals
 
 # Snapshot of Dashboard 
+https://github.com/Latikabhardwaj/power_bi_IPL_dashboard/blob/main/snapshot_IPL_dashboard.jpg
 
